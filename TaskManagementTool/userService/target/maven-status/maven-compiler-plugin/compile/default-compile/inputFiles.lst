@@ -1,0 +1,13 @@
+H:\TaskManagementTool\userService\src\main\java\myCompany\taskManager\userService\model\Role.java
+H:\TaskManagementTool\userService\src\main\java\myCompany\taskManager\userService\security\JwtTokenProvider.java
+H:\TaskManagementTool\userService\src\main\java\myCompany\taskManager\userService\controller\UserController.java
+H:\TaskManagementTool\userService\src\main\java\myCompany\taskManager\userService\security\SecurityConfig.java
+H:\TaskManagementTool\userService\src\main\java\myCompany\taskManager\userService\security\CustomUserDetailsService.java
+H:\TaskManagementTool\userService\src\main\java\myCompany\taskManager\userService\UserServiceApplication.java
+H:\TaskManagementTool\userService\src\main\java\myCompany\taskManager\userService\security\OAuth2LoginFailureHandler.java
+H:\TaskManagementTool\userService\src\main\java\myCompany\taskManager\userService\repository\RoleRepository.java
+H:\TaskManagementTool\userService\src\main\java\myCompany\taskManager\userService\repository\UserRepository.java
+H:\TaskManagementTool\userService\src\main\java\myCompany\taskManager\userService\model\User.java
+H:\TaskManagementTool\userService\src\main\java\myCompany\taskManager\userService\security\OAuth2LoginSuccessHandler.java
+H:\TaskManagementTool\userService\src\main\java\myCompany\taskManager\userService\service\UserService.java
+H:\TaskManagementTool\userService\src\main\java\myCompany\taskManager\userService\security\JwtAuthenticationFilter.java

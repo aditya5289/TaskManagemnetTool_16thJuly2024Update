@@ -1,0 +1,17 @@
+server:
+  port: 8761 # The port where the Eureka server will run
+
+
+eureka:
+  client:
+    register-with-eureka: false # The Eureka server does not need to register with itself
+    fetch-registry: false       # The Eureka server does not need to fetch the registry from itself
+  server:
+    enable-self-preservation: false # Disable self-preservation to avoid complications during development
+
+
+# Logging level (optional, useful for debugging)
+logging:
+  level:
+    com.netflix.eureka: DEBUG
+    org.springframework.cloud.netflix.eureka: DEBUG
